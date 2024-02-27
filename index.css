@@ -19,9 +19,10 @@
 .rest-container{
     border: 1px solid black;
 }
-.search{
+.filter-btn{
     padding: 1rem;
-
+    margin: 1rem;
+    cursor: pointer;
 }
 
 .rest-container{
